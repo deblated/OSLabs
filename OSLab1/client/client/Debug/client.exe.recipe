@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\OSLab1\client\Debug\client.exe</FullPath>
+      <FullPath>C:\GitHub\OSLabs\OSLab1\client\Debug\client.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -296,7 +296,7 @@ int main(int argc, char* argv[])
     }
     else 
     {
-        Sleep(10);
+        Sleep(100);
         pipeConnect();
     }
 

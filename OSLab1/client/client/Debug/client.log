@@ -1,2 +1,3 @@
 ﻿  client.cpp
-  client.vcxproj -> C:\OSLab1\client\Debug\client.exe
+  LINK : не найден или не выполнена сборка C:\GitHub\OSLabs\OSLab1\client\Debug\client.exe при последней инкрементной компоновке; выполняется полная компоновка
+  client.vcxproj -> C:\GitHub\OSLabs\OSLab1\client\Debug\client.exe
